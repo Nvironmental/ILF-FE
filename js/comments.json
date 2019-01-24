@@ -1,0 +1,20 @@
+[
+    {
+        "comment_id":1,
+        "author_fn":"Swapna",
+        "author_ln":"Liddle",
+        "star_author":false,
+        "hashtag":"#Architecture",
+        "comment":"<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio veniam esse aperiam omnis corrupti perferendis eaque totam dolores! Minima explicabo dignissimos amet! Hic consequuntur tempor\nLorem ipsum, dolor sit amet consectetur adipisicing elit. Odio veniam esse aperiam omnis corrupti perferendis eaque totam dolores! Minima explicabo dignissimos amet! Hic consequuntur tempor</p>"
+    },
+    {
+        "comment_id":2,
+        "author":"milkesh",
+        "star_author":true
+    },
+    {
+        "comment_id":3,
+        "author":"milkesh",
+        "star_author":false
+    }
+]
