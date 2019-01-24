@@ -118,6 +118,7 @@ relicSlider.addEventListener('scroll',function(){ //adding 'active-slider-image'
         document.querySelector(".search-label").classList.add('up');
     });
     
+    //styles and animations for search!
     document.querySelector('.search-anchor').addEventListener('click',function(){
         document.querySelector('.search-display').style.top = 0;});
 
